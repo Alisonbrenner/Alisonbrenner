@@ -41,12 +41,6 @@ Envio automatizado de mensagens com dados via Telegram usando Python.
 
 ---
 
-## 📦 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
