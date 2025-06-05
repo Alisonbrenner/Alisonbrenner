@@ -1,16 +1,84 @@
-## Hi there 👋
 
-<!--
-**Alisonbrenner/Alisonbrenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Alyson Brenner
+Sou **Engenharo e Analista de Dados**.  
+Sejam bem-vindos! Fiquem à vontade para conhecer meus projetos.  
+Estou aberto a feedbacks e colaborações 😄
+
+---
+
+## 📊 Projetos de Análise, Ciência e Engenharia de Dados
+
+🔍 **[Análise de Crédito com SQL + AWS](link-do-projeto)**  
+Análise de dados de crédito utilizando consultas SQL em ambiente na nuvem com AWS.  
+`SQL` `AWS`
+
+👥 **[Análise de RH com SQLite](link-do-projeto)**  
+Análise de dados de recursos humanos com banco de dados relacional local (SQLite).  
+`SQLite` `Python`
+
+💸 **[Previsão de Concessão de Empréstimos](link-do-projeto)**  
+Modelo preditivo para concessão de empréstimos com Machine Learning.  
+`Pandas` `Scikit-learn`
+
+🚚 **[Análise Logística - Caso Loggi](link-do-projeto)**  
+Estudo de caso com dados reais de entregas e otimização logística.  
+`Python` `Pandas` `Seaborn`
+
+🛒 **[Painel de E-commerce](link-do-projeto)**  
+Painel interativo com Power BI para análise de desempenho de vendas.  
+`Power BI`
+
+📚 **[Dashboard da Livraria](link-do-projeto)**  
+Dashboard com insights sobre vendas e desempenho de produtos em livraria.  
+`Power BI`
+
+📡 **[Pipeline de Dados com Telegram](link-do-projeto)**  
+Envio automatizado de mensagens com dados via Telegram usando Python.  
+`Python` `ETL` `Telegram`
+
+---
+
+## 📦 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📚 Bibliotecas de Ciência de Dados
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5A9FD4?style=flat)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+---
+
+## 🔗 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-LINKEDIN)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
+
+---
+
+🔁 Atualizado automaticamente com meus repositórios mais recentes.
