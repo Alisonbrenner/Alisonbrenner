@@ -12,7 +12,7 @@ Estou aberto a feedbacks e colaborações 😄
 ## 📊 Projetos de Análise, Ciência e Engenharia de Dados
 
 🔍 **[Análise de churn de clientes de app](https://github.com/Alisonbrenner/churn-dados-app-fake)**  
-Análise de dados de clientes em app de coompras. 
+Análise de dados de clientes em app de compras. 
 `Python` 
 
 ---
