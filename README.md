@@ -15,29 +15,6 @@ Estou aberto a feedbacks e colaborações 😄
 Análise de dados de crédito utilizando consultas SQL em ambiente na nuvem com AWS.  
 `SQL` `AWS`
 
-👥 **[Análise de RH com SQLite](link-do-projeto)**  
-Análise de dados de recursos humanos com banco de dados relacional local (SQLite).  
-`SQLite` `Python`
-
-💸 **[Previsão de Concessão de Empréstimos](link-do-projeto)**  
-Modelo preditivo para concessão de empréstimos com Machine Learning.  
-`Pandas` `Scikit-learn`
-
-🚚 **[Análise Logística - Caso Loggi](link-do-projeto)**  
-Estudo de caso com dados reais de entregas e otimização logística.  
-`Python` `Pandas` `Seaborn`
-
-🛒 **[Painel de E-commerce](link-do-projeto)**  
-Painel interativo com Power BI para análise de desempenho de vendas.  
-`Power BI`
-
-📚 **[Dashboard da Livraria](link-do-projeto)**  
-Dashboard com insights sobre vendas e desempenho de produtos em livraria.  
-`Power BI`
-
-📡 **[Pipeline de Dados com Telegram](link-do-projeto)**  
-Envio automatizado de mensagens com dados via Telegram usando Python.  
-`Python` `ETL` `Telegram`
 
 ---
 
