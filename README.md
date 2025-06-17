@@ -11,10 +11,9 @@ Estou aberto a feedbacks e colaborações 😄
 
 ## 📊 Projetos de Análise, Ciência e Engenharia de Dados
 
-🔍 **[Análise de Crédito com SQL + AWS](link-do-projeto)**  
-Análise de dados de crédito utilizando consultas SQL em ambiente na nuvem com AWS.  
-`SQL` `AWS`
-
+🔍 **[Análise de churn de clientes de app](https://github.com/Alisonbrenner/churn-dados-app-fake)**  
+Análise de dados de clientes em app de coompras. 
+`Python` 
 
 ---
 
