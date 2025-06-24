@@ -4,8 +4,7 @@
 
 Sou Alyson Brenner
 Sou **Engenharo e Analista de Dados**.  
-Sejam bem-vindos! Fiquem à vontade para conhecer meus projetos.  
-Estou aberto a feedbacks e colaborações 😄
+Sejam bem-vindos! Fiquem à vontade para conhecer meus projetos.   😄
 
 ---
 
