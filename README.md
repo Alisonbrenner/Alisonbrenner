@@ -16,11 +16,16 @@ Análise de dados de clientes em app de compras.
 `Python` 
 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
+## 🖥️ Linguagens de programação
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+---
+## 🛠️ Tecnologias & Ferramentas
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -29,9 +34,16 @@ Análise de dados de clientes em app de compras.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 [![n8n](https://img.shields.io/badge/-n8n-ef6c00?style=flat&logo=n8n)](https://n8n.io/)
----
+[![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=power-automate)](https://powerautomate.microsoft.com/)
+[![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat&logo=google)](https://developers.google.com/apps-script)
+[![Bot Telegram](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat&logo=telegram)](https://core.telegram.org/bots)
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![Pentaho](https://img.shields.io/badge/-Pentaho-1B345F?style=flat)](https://community.hitachivantara.com/s/article/downloads-pentaho)
+[![Databricks](https://img.shields.io/badge/-Databricks-EF3E42?style=flat&logo=databricks)](https://databricks.com/)
 
-## 📚 Bibliotecas de Engenheiro de Dados
+---
+## 📚 Bibliotecas mais usadas
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
