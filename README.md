@@ -46,7 +46,7 @@ Análise de dados de clientes em app de compras.
 
 ## 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/alyson-brenner-8880a5142)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alyson-brenner-8880a5142)
 
 
 ---
