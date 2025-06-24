@@ -14,6 +14,12 @@ Sejam bem-vindos! Fiquem à vontade para conhecer meus projetos.   😄
 Análise de dados de clientes em app de compras. 
 `Python` 
 
+
+🔍 **[modelagem e ingestão de dados no postgree](https://github.com/Alisonbrenner/incremental-python-postgree.git)**  
+modelagem e tratamento de dados com python, com destino ao data warehouse no postgree. 
+`Python` `SQL` 
+
+
 ---
 ## 🖥️ Linguagens de programação
 
