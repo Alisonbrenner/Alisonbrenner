@@ -30,18 +30,18 @@ Análise de dados de clientes em app de compras.
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+[![n8n](https://img.shields.io/badge/-n8n-ef6c00?style=flat&logo=n8n)](https://n8n.io/)
 ---
 
-## 📚 Bibliotecas de Ciência de Dados
-
+## 📚 Bibliotecas de Engenheiro de Dados
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-5A9FD4?style=flat)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-
+[![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-4B8BBE?style=flat&logo=python)](https://pyautogui.readthedocs.io/en/latest/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)](https://www.selenium.dev/)
 ---
 
 ## 🔗 Contato
