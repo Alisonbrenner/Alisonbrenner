@@ -13,6 +13,11 @@ Sejam bem-vindos! Fiquem à vontade para conhecer meus projetos.   😄
 🔍 **[Análise de churn de clientes de app](https://github.com/Alisonbrenner/churn-dados-app-fake)**  
 Análise de dados de clientes em app de compras. 
 
+`Python` 
+
+🔍 **[Automação de controle de gastos]([https://github.com/Alisonbrenner/churn-dados-app-fake](https://github.com/Alisonbrenner/controle-gastos-alyson.git))**  
+automação usando google scripts e bot no telegram, que captam as entradas dos dados e iserem em uma planilha no sheets e alimenta um site no streamlit com os indicadores.. 
+
 `Python` `Streamlit` `Google Scripts`
 
 
